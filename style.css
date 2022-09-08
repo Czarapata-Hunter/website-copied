@@ -1,0 +1,49 @@
+body {
+  display: grid;
+  grid-template-rows: 50px 50px 50px 125px 140px 600px;
+}
+
+#notifications {
+  background: navy;
+  color: white;
+}
+
+#search-site {
+  background: black;
+  color: white;
+  display: grid;
+  grid-template-columns: 30% 20% 25% 25%;
+}
+
+#social-links {
+  display: grid;
+  grid-template-columns: 10fr 10fr 10fr 10fr 10fr 10fr 10fr 10fr;
+}
+
+#dropdowns {
+  background: darkgray;
+}
+
+#class-rules {
+  display: grid;
+  grid-template-columns: 50% 1fr 1fr 2fr;
+}
+
+#rules-sub-homebrew {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+#search-name {
+  background: white;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+#all-classes {
+  background: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-left: 350px;
+  padding-right: 200px;
+}
