@@ -9,3 +9,4 @@ Was able to get the website looking very similar with the pictures
 
 Leaving the commented out sections in the code so the process I took can be seen.
 Do not want the TA's to think I just went straight for putting in a bunch of pictures.
+Little tiny change
