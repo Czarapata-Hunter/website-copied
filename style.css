@@ -17,7 +17,7 @@ body {
 
 #social-links {
   display: grid;
-  grid-template-columns: 10px 10px 10px 10px 10px 10px 10px 10px;
+  grid-template-columns: 10fr 10fr 10fr 10fr 10fr 10fr 10fr 10fr;
 }
 
 #dropdowns {
